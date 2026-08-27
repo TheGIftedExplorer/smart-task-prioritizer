@@ -1,4 +1,5 @@
 # Smart Task Prioritizer
-Under Progress
+A project management plugin that ranks to-do lists based on deadlines and historical speed.
+
 
 Contributions appreciated
