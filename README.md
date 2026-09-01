@@ -21,10 +21,4 @@ Recurring Task Automation: Manage daily, weekly, or monthly repeating routines w
 
 Smart Reminders: Send contextual, timely alerts before deadlines approach or priorities shift.
 
-### Integrations & Tracking
-
-Calendar & App Sync: Pull action items automatically from external tools like Google Calendar, Gmail, or Slack.
-
-Time Tracking & Analytics: Monitor time spent on specific tasks to generate personal productivity reports and insights.
-
 ### Work in progress...
