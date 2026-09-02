@@ -9,8 +9,6 @@ Energy & Mood Matching: Adjust task recommendations and sorting dynamically acco
 
 Predictive Deadlines: Estimate completion times and flag potential bottlenecks by analyzing historical user performance.
 
-Natural Language Processing (NLP): Convert raw text inputs, chat messages, or emails directly into structured, prioritized action items.
-
 ### Task Management & Workflow
 
 Dynamic Subtasks: Break down complex, large goals into smaller, manageable, and sequential steps.
