@@ -19,7 +19,5 @@ Recurring Task Automation: Manage daily, weekly, or monthly repeating routines w
 
 Smart Reminders: Send contextual, timely alerts before deadlines approach or priorities shift.
 
-Smart Reminders: Send contextual, timely alerts before deadlines approach or priorities shift.
-
 
 ## Work in progress...
