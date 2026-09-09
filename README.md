@@ -14,8 +14,6 @@ Predictive Deadlines: Estimate completion times and flag potential bottlenecks b
 Dynamic Subtasks: Break down complex, large goals into smaller, manageable, and sequential steps.
 
 
-Dynamic Subtasks: Break down complex, large goals into smaller, manageable, and sequential steps.
-
 Automated Scheduling: Block dedicated time slots on your calendar for deep, uninterrupted work based on priority.
 
 Recurring Task Automation: Manage daily, weekly, or monthly repeating routines without manual re-entry.
