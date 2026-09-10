@@ -7,6 +7,8 @@ Smart Priority Matrix: Automatically sort tasks using frameworks like Eisenhower
 
 Energy & Mood Matching: Adjust task recommendations and sorting dynamically according to the user's daily energy levels and current mood.
 
+Energy & Mood Matching: Adjust task recommendations and sorting dynamically according to the user's daily energy levels and current mood.
+
 Predictive Deadlines: Estimate completion times and flag potential bottlenecks by analyzing historical user performance.
 
 ### Task Management & Workflow
